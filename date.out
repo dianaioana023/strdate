@@ -1,0 +1,98 @@
+
+
+Test 1, N= 10, valoare maxima= 80
+
+Bubblesort 
+A fost sortat
+07172874
+Countsort 
+A fost sortat
+07172874
+Radixsort 
+A fost sortat
+07172874
+Mergesort
+A fost sortat
+07172874
+Quicksort
+A fost sortat
+07172874
+
+Test 2, N= 10000, valoare maxima= 10000
+
+Bubblesort nu merge
+
+Countsort 
+A fost sortat
+07172874
+Radixsort 
+A fost sortat
+07172874
+Mergesort nu merge
+
+Quicksort
+A fost sortat
+377172874
+
+Test 3, N= 10000, valoare maxima= 10
+
+Bubblesort nu merge
+
+Countsort 
+A fost sortat
+07172874
+Radixsort 
+A fost sortat
+07172874
+Mergesort nu merge
+
+Quicksort
+A fost sortat
+867172874
+
+Test 4, N= 10, valoare maxima= 10000
+
+Bubblesort nu merge
+
+Countsort 
+A fost sortat
+87172874
+Radixsort 
+A fost sortat
+07172874
+Mergesort nu merge
+
+Quicksort
+A fost sortat
+817172874
+
+Test 5, N= 1000, valoare maxima= 7
+
+Bubblesort 
+A fost sortat
+11890497172874
+Countsort 
+A fost sortat
+07172874
+Radixsort 
+A fost sortat
+87172874
+Mergesort nu merge
+
+Quicksort
+A fost sortat
+927172874
+
+Test 6, N= 1000000, valoare maxima= 1000
+
+Bubblesort nu merge
+
+Countsort nu merge
+
+Radixsort nu merge 
+
+Mergesort nu merge
+
+Quicksort
+A fost sortat
+45897172874
